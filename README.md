@@ -1,3 +1,4 @@
+![Vendor Risk Assessment Checklist](cover.png)
 # Vendor Risk Assessment Checklist v1.0
 
 This project is a beginner-friendly **Vendor Risk Assessment Checklist** designed for evaluating third-party vendors against core security and compliance requirements.
@@ -25,3 +26,4 @@ Future updates may include:
 
 👤 Created by [Carlo Buensalida]  
 Aspiring Third-Party Risk Analyst | Cybersecurity GRC Enthusiast
+
