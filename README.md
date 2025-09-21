@@ -24,6 +24,6 @@ Future updates may include:
 
 ---
 
-👤 Created by [Carlo Buensalida]  
+👤 Created by [Carlo Buensalida](https://github.com/carlobuensalida)  
 Aspiring Third-Party Risk Analyst | Cybersecurity GRC Enthusiast
 
